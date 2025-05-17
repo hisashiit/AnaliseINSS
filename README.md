@@ -1,6 +1,6 @@
 Eu estava olhando o Instagram e me deparei com uma desinformação bastante esquisita: "O INSS é um péssimo negócio aos brasileiros e ele estaria, supostamente, 'roubando dinheiro' de quem o paga". Mas, o pior não é isso, segundo o post: "Se você investe 951 reais por mês, a juros líquidos de 9 por cento ao ano, em 40 anos, você teria 4 milhões de reais" e isso é uma meia-verdade...
 
-Vale a pena pagar INSS? Bem... Em curtas palavras, sim! Mas, vou ser honesto, até eu fiquei surpreso que vale a pena. Vamos aos cálculos:
+Vale a pena pagar INSS? Sim, se for até o teto. Acima do teto, passa a cada vez valer menos a pena, mas eu não fiz o cálculo de até que valor ainda "vale a pena"
 
 Consideramos que o João contribua 951,63 reais por mês e esteja exatamente no teto do INSS (vamos desconsiderar que João contribua mais, porque eu fiquei com preguiça de fazer essa análise - sorry, guys).
 João, rendendo a uma taxa de 9 por cento ao ano (líquidos), acumulará 4.015.154,4667333816 reais depois de 40 anos conforme segue o gráfico (Homem montante 40 anos).
